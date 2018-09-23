@@ -9,5 +9,5 @@ This dataset contains two data columns, “X” and “Y”, and one “cluster�
 
 ## Value of Sum of Squared Error (SSE)
 K-means clustering algorithm by changing K from low to high, the value of SSE will be like below
-![](https://i.imgur.com/F67PobU.png)
+![](https://i.imgur.com/zPWzHe9.png)
 
